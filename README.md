@@ -1,1 +1,1 @@
-# waifumc-discord-bot
+# WaifuMC - Discord BOT Project
